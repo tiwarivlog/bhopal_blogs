@@ -1,0 +1,14 @@
+*{
+  margin: 0%;
+  padding: 0%
+}
+
+/* header section  */
+
+.jumbotron{
+  background-image: linear-gradient(rgb(224, 206, 206),rgb(5, 5, 5));
+}
+
+
+/* media query  */
+
